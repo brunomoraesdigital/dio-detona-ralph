@@ -1,6 +1,6 @@
-# Joguinho Detona Ralph
+# Jogo Detona Ralph
 
-Este projeto é um jogo simples inspirado em "Detona Ralph", desenvolvido como parte do meu aprendizado de JavaScript, HTML e CSS.
+Este projeto é um jogo simples inspirado em "Detona Ralph", desenvolvido como parte do meu aprendizado na DIO de JavaScript, HTML e CSS.
 
 ## Ver Demonstração
 
